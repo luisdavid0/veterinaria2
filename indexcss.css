@@ -63,7 +63,7 @@ a:hover{
     margin-left: 40%;
 }
 
-.educacion{
+.educa{
     border-radius: 10px;
     border: solid 3px #ffffff6f ;
     
@@ -76,7 +76,7 @@ a:hover{
 }
 .educa{ 
 
-  margin-right: 30%;
+  margin-right: 50%;
     
     width: 50%;
 }
@@ -123,14 +123,14 @@ a:hover{
  #cita{ 
    
     font-size: 23px;
-    background-color: rgb(225, 235, 233);
-    color: #0b0a0a;
+    background-color: rgb(52, 225, 235);
+    color: #fff;
     border-top-left-radius:10px ;
     border-top-right-radius:10px ;
 
  }
  input{
-    background-color: #e6edec;
+    background-color: #fff;
     text-align: center;
      border-radius:10px ;
     border: none;
@@ -145,10 +145,10 @@ a:hover{
     font-size: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: transparent;
-    border: solid 1px black;
+    border: solid 1px rgb(12, 0, 0);
     width: 40%;
     color:#fff;
-transition:all.9s;
+transition:all .9s;
  }
  #enviar:hover{
     background-color: black;
